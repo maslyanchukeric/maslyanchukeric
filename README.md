@@ -2,6 +2,7 @@
 AutoPlus is a vehicle marketplace project currently being rebuilt from the ground up.
 The goal is to create a clean, scalable platform for searching vehicles, evaluating deals, negotiating offers, and accessing AI-assisted automotive insights.
 This repository represents an early-stage rebuild with a focus on architecture, UX, and real-world use cases.
+
 🎯 Project Goals
 •	Build a modern vehicle marketplace (clean & salvage)
 •	Provide dealership-style tools for buyers and sellers
@@ -39,6 +40,8 @@ This repository represents an early-stage rebuild with a focus on architecture, 
 •	Add persistent storage
 •	Add authentication
 •	Introduce AI features (optional)
+
+
 👤 Author
 Eric Maslyanchuk
 Computer Science (Software Development)
