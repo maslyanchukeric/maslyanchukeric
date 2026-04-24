@@ -1,49 +1,59 @@
-🚗 AutoPlus Building
-AutoPlus is a vehicle marketplace project currently being rebuilt from the ground up.
-The goal is to create a clean, scalable platform for searching vehicles, evaluating deals, negotiating offers, and accessing AI-assisted automotive insights.
-This repository represents an early-stage rebuild with a focus on architecture, UX, and real-world use cases.
+👋 About Me
 
-🎯 Project Goals
-•	Build a modern vehicle marketplace (clean & salvage)
-•	Provide dealership-style tools for buyers and sellers
-•	Keep the system modular so technologies can evolve
-•	Prioritize clean code, clarity, and maintainability
-🧠 Planned Core Features
-•	🔍 Vehicle search & filtering
-•	💬 Buyer ↔ Seller offer negotiation
-•	💰 Auto loan & payment calculators
-•	🤖 AI-assisted vehicle questions & insights
-•	📱 Responsive, accessible UI
-•	🛠️ Tech Stack (Planned / In Progress)
-•	⚠️ Stack is intentionally flexible and subject to change
-•	Backend: TBD (currently evaluating options)
-•	Frontend: HTML / CSS / JavaScript (framework TBD)
-•	Database: TBD
-•	AI Integration: Optional (OpenAI or equivalent)
-•	Hosting / Deployment: TBD
-•	The rebuild focuses first on structure and separation of concerns, not locking into tools too early.
-•	📁 Repository Status
-•	🚧 Active rebuild
-•	🧪 Prototyping and refactoring phase
-•	🔁 Expect breaking changes
-•	This repo may change significantly as the architecture evolves.
-•	🧩 Design Principles
-•	Simple > Clever
-•	Clear separation of frontend / backend
-•	No premature optimization
-•	Real-world automotive workflows
-•	Easy to reason about and extend
-•	📌 Roadmap (High Level)
-•	Define core data models
-•	Rebuild navigation & layout
-•	Reimplement vehicle search
-•	Add persistent storage
-•	Add authentication
-•	Introduce AI features (optional)
+I’m a Computer Science student working on building real-world applications.
+I’ve used languages like C#, Java, Python, and C++, and I’m currently focused on improving my web development and backend skills.
+
+Right now I’m learning:
+
+ASP.NET MVC
+Razor Pages
+SQL Server
+API integration
+
+I like building projects that actually do something useful instead of just basic assignments. I’m still learning, but I’m focused on getting better and building more complete applications.
+
+--
+
+🚗 AutoPlus
+
+AutoPlus is a vehicle marketplace app I’m rebuilding from scratch.
+The goal is to make a simple, clean system for searching vehicles and working with real data.
+
+--
+
+🎯 What I’m Trying to Do
+Build a basic vehicle marketplace
+Keep the code clean and easy to understand
+Focus on real features instead of overcomplicating things
+
+--
+
+Features (Planned)
+Search vehicles by make, model, or year
+Filter and sort results
+Basic buyer/seller interaction (offers)
+Price and payment calculations
+
+--
+
+🛠️ Tech (So Far)
+C#
+ASP.NET MVC
+SQL Server
+HTML / CSS / JavaScript
+
+--
+
+📌 Next Steps
+Improve vehicle search
+Add database storage
+Add user accounts
+Keep improving the UI
+
+--
 
 
 👤 Author
-Eric Maslyanchuk
-Computer Science (Software Development)
-Building practical, real-world systems
 
+Eric Maslyanchuk
+Computer Science Student
