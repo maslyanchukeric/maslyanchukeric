@@ -19,22 +19,25 @@ AutoPlus is a vehicle marketplace app I’m rebuilding from scratch. The goal is
 Build a basic vehicle marketplace
 Keep the code clean and easy to understand
 Focus on real features instead of overcomplicating things
+
 ⚙️ Features (Planned)
 Search vehicles by make, model, or year
 Filter and sort results
 Basic buyer/seller interaction (offers)
 Price and payment calculations
+
 🛠️ Tech (So Far)
 C#
 ASP.NET MVC
 SQL Server
 HTML / CSS / JavaScript
+
 📌 Next Steps
 Improve vehicle search
 Add database storage
 Add user accounts
 Keep improving the UI
-👤 Author
 
+👤 Author
 Eric Maslyanchuk
 Computer Science Student
