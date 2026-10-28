@@ -1,43 +1,76 @@
-👋 About Me
 
-I’m a Computer Science student working on building real-world applications. I’ve used languages like C#, Java, Python, and C++, and I’m currently focused on improving my web development and backend skills.
+# 👋 About Me
 
-Right now I’m learning:
+I'm a software developer with two associate degrees in Computer Technology and Mechatronics from Spartanburg Community College.
 
-ASP.NET MVC
-Razor Pages
-SQL Server
-API integration
+I have experience with C#, .NET, Java, Python, C++, SQL, and Kotlin. I've worked on desktop, web, and Android applications, and I'm currently focused on improving my backend development, database management, and software engineering skills.
 
-I like building projects that actually do something useful instead of just basic assignments. I’m still learning, but I’m focused on getting better and building more complete applications.
+My background also includes robotics, industrial automation, and troubleshooting.
 
-🚗 AutoPlus
+I enjoy building projects that solve real problems. I'm always learning, improving my code, and working toward becoming a better developer.
 
-AutoPlus is a vehicle marketplace app I’m rebuilding from scratch. The goal is to make a simple, clean system for searching vehicles and working with real data.
+## 💻 Technical Skills
 
-🎯 What I’m Trying to Do
-Build a basic vehicle marketplace
-Keep the code clean and easy to understand
-Focus on real features instead of overcomplicating things
+- **Languages:** C#, Java, Python, C++, SQL, Kotlin
+- **Frameworks:** .NET, ASP.NET Core MVC, Razor
+- **Databases:** SQL Server, Room Database, JSON
+- **Tools:** Visual Studio, VS Code, Git, GitHub, Android Studio
+- **Concepts:** Object-Oriented Programming (OOP), Debugging, Database Design
 
-⚙️ Features (Planned)
-Search vehicles by make, model, or year
-Filter and sort results
-Basic buyer/seller interaction (offers)
-Price and payment calculations
+---
 
-🛠️ Tech (So Far)
-C#
-ASP.NET MVC
-SQL Server
-HTML / CSS / JavaScript
+## 🔧 AutoShopManagement — Completed Project
 
-📌 Next Steps
-Improve vehicle search
-Add database storage
-Add user accounts
-Keep improving the UI
+AutoShopManagement is a C#/.NET console application I developed to manage customers, vehicles, and automotive repair jobs.
 
-👤 Author
-Eric Maslyanchuk
-Computer Science Student
+This project helped me strengthen my understanding of object-oriented programming, data persistence, and application structure.
+
+### ⚙️ Features
+
+- Add and view customers
+- Add and view vehicles
+- Create, search, and complete repair jobs
+- Track repair costs, parts, and solutions
+- Save and load information using JSON
+- Automatically generate unique IDs
+- Validate customer input
+- Organize application functionality into reusable classes
+
+### 🛠️ Technologies
+
+- C#
+- .NET
+- Object-Oriented Programming (OOP)
+- JSON Serialization
+- Visual Studio
+
+**Status:** Version 1.0 Completed — October 2026
+
+🔗 [View AutoShopManagement on GitHub](https://github.com/maslyanchukeric/AutoShopManagement)
+
+---
+
+## 📚 Currently Learning
+
+- ASP.NET Core MVC
+- REST APIs and API Integration
+- SQL Server and Database Design
+- Backend Development
+- Software Architecture
+- Git and GitHub Best Practices
+
+## 🎯 Career Goals
+
+I'm looking for opportunities in software development, particularly C#/.NET development, backend development, and industrial automation.
+
+My goal is to continue building practical applications, gain professional development experience, and grow my technical skills.
+
+---
+
+## 👤 Author
+
+**Eric Maslyanchuk**
+
+- [GitHub](https://github.com/maslyanchukeric)
+- [LinkedIn](https://www.linkedin.com/in/ericmaslyanchuk)
+
